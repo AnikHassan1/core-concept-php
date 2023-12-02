@@ -17,5 +17,5 @@ echo(ceil(9.90))."<br>";#ceil return up to nearest number
 echo(floor(9.90))."<br>";#floor return down to nearest number
 echo(fmod(20,3))."<br>";# return reminder number
 echo hexdec("a")."<br>";#convert hex to dec
-
+echo rad2deg(pi()/2)."<br>";
 ?>
